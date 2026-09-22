@@ -13,6 +13,7 @@
 
 <br/>
 
+<img src="https://img.shields.io/badge/Location-Cambodia-9333EA?style=for-the-badge&logo=googlemaps&logoColor=white" />
 <img src="https://img.shields.io/badge/Status-Open_to_Freelance-D946EF?style=for-the-badge&logo=upwork&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=neagsom229-lang&color=9333ea&style=for-the-badge&label=PROFILE+VIEWS" />
 
@@ -22,9 +23,12 @@
 
 ## 👋 About Me
 
-Junior web developer who curious learning new things daily to understood how technologies growth from now to the future. and I have built project full-stack products — to improve my foundation and I tend to pick projects partly for what they'll force me to learn next.
+Junior web developer and UI/UX designer based in Cambodia. I build full-stack products — mostly for small businesses back home — and I tend to pick projects partly for what they'll force me to learn next.
 
-
+- 🏗️ Currently building **KhmerFlow**, a full SaaS POS & inventory platform with local KHQR/ABA PayWay payments
+- 🎨 Redesigning **Obsidian** into a glassmorphic, motion-rich finance dashboard
+- 🧠 Learning by shipping — new stack, new framework, or new domain on almost every project
+- 💼 Freelancing locally in Cambodia and building a track record on Upwork
 
 <br/>
 
@@ -36,8 +40,8 @@ Junior web developer who curious learning new things daily to understood how tec
 
 **Frontend**
 <br/><br/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /><br/>
@@ -50,22 +54,22 @@ Junior web developer who curious learning new things daily to understood how tec
 <br/><br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
 </td>
 <td align="center" width="25%" valign="top">
 
 **Data & Infra**
 <br/><br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
 </td>
 <td align="center" width="25%" valign="top">
@@ -74,6 +78,7 @@ Junior web developer who curious learning new things daily to understood how tec
 <br/><br/>
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/KHQR-9333EA?style=flat-square&logo=googlepay&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 </td>
@@ -89,6 +94,19 @@ Junior web developer who curious learning new things daily to understood how tec
 <td width="50%" valign="top">
 <div>
 
+### 🛒 KhmerFlow
+SaaS POS & inventory platform for Cambodian small businesses, with a native KHQR/ABA PayWay flow as a local alternative to Stripe.
+
+`React` `Express` `PostgreSQL` `Neon`
+
+**[View Repo →](https://github.com/neagsom229-lang/KhmerFlow)**
+<br/><sub>An earlier version also exists rebuilt in Django, mainly to compare the two stacks.</sub>
+
+</div>
+</td>
+<td width="50%" valign="top">
+<div>
+
 ### 💎 Obsidian
 Expense tracker SaaS with a working Stripe billing tier, budgets, recurring transactions, and CSV export — mid-redesign into a glassmorphic bento-grid dashboard.
 
@@ -99,8 +117,6 @@ Expense tracker SaaS with a working Stripe billing tier, budgets, recurring tran
 </div>
 </td>
 </tr>
-
-<table width="100%">
 <tr>
 <td width="50%" valign="top">
 <div>
@@ -114,14 +130,22 @@ Identifies a landmark from a photo using the Gemini API, geocodes it with Nomina
 
 </div>
 </td>
-</tr>
-
-
-</div>
-</td>
 <td width="50%" valign="top">
 <div>
 
+### 🎥 RetroLens Pro
+Real-time hand tracking drives gesture-controlled visual effects, including a Fire Mode.
+
+`Python` `OpenCV` `MediaPipe`
+
+**[View Repo →](https://github.com/neagsom229-lang/RetroLens-Pro)**
+
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<div>
 
 ### 🧰 SNPro
 Flask-based professional toolkit with a dark/light theme system built on CSS custom properties.
@@ -130,16 +154,10 @@ Flask-based professional toolkit with a dark/light theme system built on CSS cus
 
 **[View Repo →](https://github.com/neagsom229-lang/SNPro)**
 
-
-</div>
-</td>
-</tr>
-
 </div>
 </td>
 <td width="50%" valign="top">
 <div>
-
 
 ### 🖼️ Portfolio
 Personal site being rebuilt section by section (Hero, Work Gallery, About, Awards, Contact) to match a reference design.
@@ -148,14 +166,26 @@ Personal site being rebuilt section by section (Hero, Work Gallery, About, Award
 
 **[View Repo →](https://github.com/neagsom229-lang/Chh_Sn_Portfolio)**
 
-
 </div>
 </td>
 </tr>
 </table>
+
+<sub>Also in the archive: a Cambodian bookstore front end, a sellable Bootstrap business-site template, a Microsoft Access inventory system, and a tkinter bubble-sort visualizer — early reps from learning the fundamentals.</sub>
+
 <br/>
 
+## 🎨 Design Language
 
+Rich over minimal — dark themes, gradient accents, glassmorphism, and motion that earns its place. If a dashboard looks quiet, it's probably still mid-redesign.
+
+## 📓 How I Work
+
+- If I don't know a stack yet, that's usually part of why I picked the project — Laravel for TraceGeo, computer vision for RetroLens Pro, a from-scratch Django rebuild of KhmerFlow just to compare it against the Node version
+- "Done" is a soft word here — most projects are past their first working version and still getting redesigned
+- I build for real use, not just a demo — KhmerFlow and Obsidian both need to hold up for an actual small business, not just look good in a screenshot
+
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -172,13 +202,6 @@ Personal site being rebuilt section by section (Hero, Work Gallery, About, Award
 
 <br/>
 
-## 🧊 3D Contribution Calendar
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/neagsom229-lang/neagsom229-lang/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</div>
-
-
 ## 📬 Let's Connect
 
 <div align="center">
@@ -191,7 +214,7 @@ Personal site being rebuilt section by section (Hero, Work Gallery, About, Award
 
 <br/><br/>
 
-Open to freelance work — locally  and on Upwork.
+Open to freelance work — locally in Cambodia and on Upwork.
 Message me directly on Telegram or Gmail, or open an issue/discussion on any repo above.
 
 </div>
@@ -201,5 +224,5 @@ Message me directly on Telegram or Gmail, or open an issue/discussion on any rep
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer&width=1000" alt="footer" />
 
 <div align="center">
-<i>Thanks for Attention✨</i>
+<i>Thanks for reading this far ✨</i>
 </div>
