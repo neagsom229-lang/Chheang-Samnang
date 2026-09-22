@@ -23,12 +23,9 @@
 
 ## 👋 About Me
 
-Junior web developer and UI/UX designer based in Cambodia. I build full-stack products — mostly for small businesses back home — and I tend to pick projects partly for what they'll force me to learn next.
+Junior web developer who curious learning new things daily to understood how technologies growth from now to the future. and I have built project full-stack products — to improve my foundation and I tend to pick projects partly for what they'll force me to learn next.
 
-- 🏗️ Currently building **KhmerFlow**, a full SaaS POS & inventory platform with local KHQR/ABA PayWay payments
-- 🎨 Redesigning **Obsidian** into a glassmorphic, motion-rich finance dashboard
-- 🧠 Learning by shipping — new stack, new framework, or new domain on almost every project
-- 💼 Freelancing locally in Cambodia and building a track record on Upwork
+
 
 <br/>
 
@@ -40,6 +37,8 @@ Junior web developer and UI/UX designer based in Cambodia. I build full-stack pr
 
 **Frontend**
 <br/><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br/>
 <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /><br/>
@@ -55,6 +54,7 @@ Junior web developer and UI/UX designer based in Cambodia. I build full-stack pr
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
 </td>
 <td align="center" width="25%" valign="top">
@@ -65,6 +65,8 @@ Junior web developer and UI/UX designer based in Cambodia. I build full-stack pr
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 
 </td>
 <td align="center" width="25%" valign="top">
@@ -73,7 +75,6 @@ Junior web developer and UI/UX designer based in Cambodia. I build full-stack pr
 <br/><br/>
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/KHQR-9333EA?style=flat-square&logo=googlepay&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 </td>
@@ -209,7 +210,7 @@ Rich over minimal — dark themes, gradient accents, glassmorphism, and motion t
 
 <br/><br/>
 
-Open to freelance work — locally in Cambodia and on Upwork.
+Open to freelance work — locally  and on Upwork.
 Message me directly on Telegram or Gmail, or open an issue/discussion on any repo above.
 
 </div>
@@ -219,5 +220,5 @@ Message me directly on Telegram or Gmail, or open an issue/discussion on any rep
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer&width=1000" alt="footer" />
 
 <div align="center">
-<i>Thanks for reading this far ✨</i>
+<i>Thanks for Attention✨</i>
 </div>
