@@ -128,19 +128,6 @@ Identifies a landmark from a photo using the Gemini API, geocodes it with Nomina
 <td width="50%" valign="top">
 <div>
 
-### 🎥 RetroLens Pro
-Real-time hand tracking drives gesture-controlled visual effects, including a Fire Mode.
-
-`Python` `OpenCV` `MediaPipe`
-
-**[View Repo →](https://github.com/neagsom229-lang/RetroLens-Pro)**
-
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<div>
 
 ### 🧰 SNPro
 Flask-based professional toolkit with a dark/light theme system built on CSS custom properties.
