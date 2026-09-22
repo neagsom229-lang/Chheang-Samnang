@@ -14,8 +14,9 @@ jobs:
       - uses: actions/checkout@v4
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}   # personal access token, not the default token
           USERNAME: neagsom229-lang
+          MAX_REPOS: 300
       - name: Commit output
         run: |
           git config user.name github-actions
