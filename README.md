@@ -11,7 +11,7 @@
 
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=wave&color=0:6D28D9,50:9333EA,100:D946EF&height=220&section=header&text=Chheang%20Samnang&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Junior%20Web%20Developer%20%26%20UI%2FUX%20Designer&descAlignY=55&descSize=18&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=wave&color=0:6D28D9,50:9333EA,100:D946EF&height=220&section=header&text=Chheang%20Samnang&fontSize=44&fontColor=ffffff&fontAlignY=35&desc=Junior%20Web%20Developer%20-%20UI-UX%20Designer&descAlignY=55&descSize=18&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+SaaS+tools+for+Cambodian+small+businesses;Rebuilding+the+same+idea+in+a+new+stack+just+to+learn+it;React+%2B+Vite+by+day%2C+Laravel+%26+Django+on+the+side;Open+to+freelance+work+-+let%27s+talk&font=Fira+Code&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=700)](https://git.io/typing-svg)
 
@@ -76,6 +76,8 @@ Rich over minimal — dark themes, gradient accents, glassmorphism, and motion t
 ### 📊 GitHub stats
 
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=neagsom229-lang&theme=tokyonight&margin-w=15&margin-h=15&column=6" width="100%" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=neagsom229-lang&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neagsom229-lang&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
