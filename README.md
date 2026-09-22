@@ -89,18 +89,7 @@ Junior web developer who curious learning new things daily to understood how tec
 <td width="50%" valign="top">
 <div>
 
-### 🛒 KhmerFlow
-SaaS POS & inventory platform for Cambodian small businesses, with a native KHQR/ABA PayWay flow as a local alternative to Stripe.
 
-`React` `Express` `PostgreSQL` `Neon`
-
-**[View Repo →](https://github.com/neagsom229-lang/KhmerFlow)**
-<br/><sub>An earlier version also exists rebuilt in Django, mainly to compare the two stacks.</sub>
-
-</div>
-</td>
-<td width="50%" valign="top">
-<div>
 
 ### 💎 Obsidian
 Expense tracker SaaS with a working Stripe billing tier, budgets, recurring transactions, and CSV export — mid-redesign into a glassmorphic bento-grid dashboard.
