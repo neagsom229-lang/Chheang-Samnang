@@ -13,7 +13,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Location-Cambodia-9333EA?style=for-the-badge&logo=googlemaps&logoColor=white" />
 <img src="https://img.shields.io/badge/Status-Open_to_Freelance-D946EF?style=for-the-badge&logo=upwork&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=neagsom229-lang&color=9333ea&style=for-the-badge&label=PROFILE+VIEWS" />
 
