@@ -171,6 +171,7 @@ Personal site being rebuilt section by section (Hero, Work Gallery, About, Award
 </div>
 
 <br/>
+
 ## 🧊 3D Contribution Calendar
 
 <div align="center">
