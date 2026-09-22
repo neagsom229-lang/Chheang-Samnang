@@ -89,8 +89,6 @@ Junior web developer who curious learning new things daily to understood how tec
 <td width="50%" valign="top">
 <div>
 
-
-
 ### 💎 Obsidian
 Expense tracker SaaS with a working Stripe billing tier, budgets, recurring transactions, and CSV export — mid-redesign into a glassmorphic bento-grid dashboard.
 
@@ -142,7 +140,6 @@ Personal site being rebuilt section by section (Hero, Work Gallery, About, Award
 </tr>
 </table>
 
-<sub>Also in the archive: a Cambodian bookstore front end, a sellable Bootstrap business-site template, a Microsoft Access inventory system, and a tkinter bubble-sort visualizer — early reps from learning the fundamentals.</sub>
 
 <br/>
 
