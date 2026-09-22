@@ -116,6 +116,7 @@ Identifies a landmark from a photo using the Gemini API, geocodes it with Nomina
 </td>
 </tr>
 
+
 </div>
 </td>
 <td width="50%" valign="top">
@@ -133,7 +134,6 @@ Flask-based professional toolkit with a dark/light theme system built on CSS cus
 </div>
 </td>
 </tr>
-</table>
 
 </div>
 </td>
