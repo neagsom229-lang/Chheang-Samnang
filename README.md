@@ -155,17 +155,7 @@ Personal site being rebuilt section by section (Hero, Work Gallery, About, Award
 </table>
 <br/>
 
-## 🎨 Design Language
 
-Rich over minimal — dark themes, gradient accents, glassmorphism, and motion that earns its place. If a dashboard looks quiet, it's probably still mid-redesign.
-
-## 📓 How I Work
-
-- If I don't know a stack yet, that's usually part of why I picked the project — Laravel for TraceGeo, computer vision for RetroLens Pro, a from-scratch Django rebuild of KhmerFlow just to compare it against the Node version
-- "Done" is a soft word here — most projects are past their first working version and still getting redesigned
-- I build for real use, not just a demo — KhmerFlow and Obsidian both need to hold up for an actual small business, not just look good in a screenshot
-
-<br/>
 
 ## 📊 GitHub Stats
 
