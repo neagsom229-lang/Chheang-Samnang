@@ -99,9 +99,7 @@ Expense tracker SaaS with a working Stripe billing tier, budgets, recurring tran
 </div>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-<div>
+
 
 ### 🌍 TraceGeo
 Identifies a landmark from a photo using the Gemini API, geocodes it with Nominatim, and shows the result on a 3D-globe interface.
@@ -123,10 +121,6 @@ Flask-based professional toolkit with a dark/light theme system built on CSS cus
 
 **[View Repo →](https://github.com/neagsom229-lang/SNPro)**
 
-</div>
-</td>
-<td width="50%" valign="top">
-<div>
 
 ### 🖼️ Portfolio
 Personal site being rebuilt section by section (Hero, Work Gallery, About, Awards, Contact) to match a reference design.
