@@ -9,11 +9,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=260&section=header&text=Chheang%20Samnang&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Junior%20Web%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=55&descSize=19&animation=fadeIn&width=1000" alt="header" />
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=700&lines=Building+SaaS+tools+for+Cambodian+small+businesses;Rebuilding+the+same+idea+in+a+new+stack+just+to+learn+it;React+%2B+Vite+by+day%2C+Laravel+%26+Django+on+the+side;Open+to+freelance+work+-+let%27s+talk)](https://git.io/typing-svg)
+<img src="./assets/header.svg" alt="header" width="100%" />
 
 <br/>
 
