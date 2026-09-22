@@ -34,80 +34,139 @@ Junior web developer and UI/UX designer based in Cambodia. I build full-stack pr
 
 ## 🧰 Tech Stack
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-</div>
-
-<br/>
-
-## 📌 Featured Projects
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="25%" valign="top">
 
-### 🛒 [KhmerFlow](https://github.com/neagsom229-lang/KhmerFlow)
-Full-stack SaaS POS & inventory platform for Cambodian small businesses. React/Vite front end, Express API on Render, PostgreSQL on Neon, with a native KHQR/ABA PayWay flow as a local-market alternative to Stripe.
-*(An earlier version was also rebuilt separately in Django — same product, different stack, mainly to compare the two.)*
-
-</td>
-<td width="50%" valign="top">
-
-### 💎 [Obsidian](https://github.com/neagsom229-lang/Tracker_Pro)
-Expense tracker SaaS with a working Stripe billing tier, budgets, recurring transactions, and CSV export. React, Tailwind CSS, Zustand, Supabase — mid-redesign into a glassmorphic bento-grid dashboard with Framer Motion and Recharts.
+**Frontend**
+<br/><br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /><br/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td align="center" width="25%" valign="top">
 
-### 🌍 [TraceGeo](https://github.com/neagsom229-lang/TraceGeo)
-Laravel 11 app that identifies a landmark from a photo using the Gemini API, geocodes it with Nominatim, and displays the result on a 3D-globe interface.
-
-</td>
-<td width="50%" valign="top">
-
-### 🎥 [RetroLens Pro](https://github.com/neagsom229-lang/RetroLens-Pro)
-Python, OpenCV, and MediaPipe camera app: real-time hand tracking drives gesture-controlled visual effects, including a Fire Mode.
+**Backend**
+<br/><br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td align="center" width="25%" valign="top">
 
-### 🧰 [SNPro](https://github.com/neagsom229-lang/SNPro)
-Flask-based professional toolkit with a dark/light theme system built on CSS custom properties.
+**Data & Infra**
+<br/><br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="25%" valign="top">
 
-### 🖼️ [Portfolio](https://github.com/neagsom229-lang/Chh_Sn_Portfolio)
-Personal site, React + Vite, currently being rebuilt section by section (Hero, Work Gallery, About, Awards, Contact) to match a reference design.
+**Payments & CV**
+<br/><br/>
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/KHQR-9333EA?style=flat-square&logo=googlepay&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 </td>
 </tr>
 </table>
 
-Also in the archive: a Cambodian bookstore front end, a sellable Bootstrap business-site template, a Microsoft Access inventory system, and a tkinter bubble-sort visualizer — early reps from learning the fundamentals.
+<br/>
+
+## 📌 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<div>
+
+### 🛒 KhmerFlow
+SaaS POS & inventory platform for Cambodian small businesses, with a native KHQR/ABA PayWay flow as a local alternative to Stripe.
+
+`React` `Express` `PostgreSQL` `Neon`
+
+**[View Repo →](https://github.com/neagsom229-lang/KhmerFlow)**
+<br/><sub>An earlier version also exists rebuilt in Django, mainly to compare the two stacks.</sub>
+
+</div>
+</td>
+<td width="50%" valign="top">
+<div>
+
+### 💎 Obsidian
+Expense tracker SaaS with a working Stripe billing tier, budgets, recurring transactions, and CSV export — mid-redesign into a glassmorphic bento-grid dashboard.
+
+`React` `Tailwind` `Zustand` `Supabase`
+
+**[View Repo →](https://github.com/neagsom229-lang/Tracker_Pro)**
+
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<div>
+
+### 🌍 TraceGeo
+Identifies a landmark from a photo using the Gemini API, geocodes it with Nominatim, and shows the result on a 3D-globe interface.
+
+`Laravel 11` `Gemini API` `Nominatim`
+
+**[View Repo →](https://github.com/neagsom229-lang/TraceGeo)**
+
+</div>
+</td>
+<td width="50%" valign="top">
+<div>
+
+### 🎥 RetroLens Pro
+Real-time hand tracking drives gesture-controlled visual effects, including a Fire Mode.
+
+`Python` `OpenCV` `MediaPipe`
+
+**[View Repo →](https://github.com/neagsom229-lang/RetroLens-Pro)**
+
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<div>
+
+### 🧰 SNPro
+Flask-based professional toolkit with a dark/light theme system built on CSS custom properties.
+
+`Flask` `Python` `CSS`
+
+**[View Repo →](https://github.com/neagsom229-lang/SNPro)**
+
+</div>
+</td>
+<td width="50%" valign="top">
+<div>
+
+### 🖼️ Portfolio
+Personal site being rebuilt section by section (Hero, Work Gallery, About, Awards, Contact) to match a reference design.
+
+`React` `Vite`
+
+**[View Repo →](https://github.com/neagsom229-lang/Chh_Sn_Portfolio)**
+
+</div>
+</td>
+</tr>
+</table>
+
+<sub>Also in the archive: a Cambodian bookstore front end, a sellable Bootstrap business-site template, a Microsoft Access inventory system, and a tkinter bubble-sort visualizer — early reps from learning the fundamentals.</sub>
 
 <br/>
 
@@ -138,15 +197,20 @@ Rich over minimal — dark themes, gradient accents, glassmorphism, and motion t
 
 <br/>
 
-## 🤝 Let's Connect
+## 📬 Let's Connect
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+<a href="https://www.linkedin.com/in/chheang-samnang-b95825406"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:chheangsamnang.wu@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://t.me/samnang_chhh"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://github.com/neagsom229-lang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+
+<br/><br/>
 
 Open to freelance work — locally in Cambodia and on Upwork.
-Issues or discussions on any repo above are the most reliable way to reach me.
+Message me directly on Telegram or Gmail, or open an issue/discussion on any repo above.
 
 </div>
 
