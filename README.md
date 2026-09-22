@@ -171,11 +171,11 @@ Personal site being rebuilt section by section (Hero, Work Gallery, About, Award
 </div>
 
 <br/>
-## 🐍 Contribution Activity
+## 🧊 3D Contribution Calendar
 
-<img src="https://raw.githubusercontent.com/neagsom229-lang/neagsom229-lang/output/github-contribution-grid-snake-dark.svg" width="100%" />
-name: Generate Snake Animation
-
+<div align="center">
+<img src="https://raw.githubusercontent.com/neagsom229-lang/neagsom229-lang/main/profile-3d-contrib/profile-night-rainbow.gif" width="100%" />
+</div>
 
 
 ## 📬 Let's Connect
