@@ -175,7 +175,7 @@ Personal site being rebuilt section by section (Hero, Work Gallery, About, Award
 ## 🧊 3D Contribution Calendar
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/neagsom229-lang/neagsom229-lang/main/profile-3d-contrib/profile-night-rainbow.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/neagsom229-lang/neagsom229-lang/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
 
 
