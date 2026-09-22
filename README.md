@@ -13,7 +13,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Location-Cambodia-9333EA?style=for-the-badge&logo=googlemaps&logoColor=white" />
 <img src="https://img.shields.io/badge/Status-Open_to_Freelance-D946EF?style=for-the-badge&logo=upwork&logoColor=white" />
 <img src="https://komarev.com/ghpvc/?username=neagsom229-lang&color=9333ea&style=for-the-badge&label=PROFILE+VIEWS" />
 
@@ -23,12 +22,7 @@
 
 ## 👋 About Me
 
-Junior web developer and UI/UX designer based in Cambodia. I build full-stack products — mostly for small businesses back home — and I tend to pick projects partly for what they'll force me to learn next.
-
-- 🏗️ Currently building **KhmerFlow**, a full SaaS POS & inventory platform with local KHQR/ABA PayWay payments
-- 🎨 Redesigning **Obsidian** into a glassmorphic, motion-rich finance dashboard
-- 🧠 Learning by shipping — new stack, new framework, or new domain on almost every project
-- 💼 Freelancing locally in Cambodia and building a track record on Upwork
+Junior web developer, passionate about learning new things daily and always curious about how fast technology grows. I build full-stack projects, and I tend to pick each one for what it will force me to learn next.
 
 <br/>
 
@@ -94,19 +88,6 @@ Junior web developer and UI/UX designer based in Cambodia. I build full-stack pr
 <td width="50%" valign="top">
 <div>
 
-### 🛒 KhmerFlow
-SaaS POS & inventory platform for Cambodian small businesses, with a native KHQR/ABA PayWay flow as a local alternative to Stripe.
-
-`React` `Express` `PostgreSQL` `Neon`
-
-**[View Repo →](https://github.com/neagsom229-lang/KhmerFlow)**
-<br/><sub>An earlier version also exists rebuilt in Django, mainly to compare the two stacks.</sub>
-
-</div>
-</td>
-<td width="50%" valign="top">
-<div>
-
 ### 💎 Obsidian
 Expense tracker SaaS with a working Stripe billing tier, budgets, recurring transactions, and CSV export — mid-redesign into a glassmorphic bento-grid dashboard.
 
@@ -116,8 +97,6 @@ Expense tracker SaaS with a working Stripe billing tier, budgets, recurring tran
 
 </div>
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 <div>
 
@@ -127,18 +106,6 @@ Identifies a landmark from a photo using the Gemini API, geocodes it with Nomina
 `Laravel 11` `Gemini API` `Nominatim`
 
 **[View Repo →](https://github.com/neagsom229-lang/TraceGeo)**
-
-</div>
-</td>
-<td width="50%" valign="top">
-<div>
-
-### 🎥 RetroLens Pro
-Real-time hand tracking drives gesture-controlled visual effects, including a Fire Mode.
-
-`Python` `OpenCV` `MediaPipe`
-
-**[View Repo →](https://github.com/neagsom229-lang/RetroLens-Pro)**
 
 </div>
 </td>
@@ -175,18 +142,6 @@ Personal site being rebuilt section by section (Hero, Work Gallery, About, Award
 
 <br/>
 
-## 🎨 Design Language
-
-Rich over minimal — dark themes, gradient accents, glassmorphism, and motion that earns its place. If a dashboard looks quiet, it's probably still mid-redesign.
-
-## 📓 How I Work
-
-- If I don't know a stack yet, that's usually part of why I picked the project — Laravel for TraceGeo, computer vision for RetroLens Pro, a from-scratch Django rebuild of KhmerFlow just to compare it against the Node version
-- "Done" is a soft word here — most projects are past their first working version and still getting redesigned
-- I build for real use, not just a demo — KhmerFlow and Obsidian both need to hold up for an actual small business, not just look good in a screenshot
-
-<br/>
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -197,6 +152,16 @@ Rich over minimal — dark themes, gradient accents, glassmorphism, and motion t
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neagsom229-lang&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
 
 <img src="https://streak-stats.demolab.com/?user=neagsom229-lang&theme=tokyonight&hide_border=true" width="100%" />
+
+</div>
+
+<br/>
+
+## 🧊 3D Contribution Calendar
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/neagsom229-lang/neagsom229-lang/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
 </div>
 
@@ -224,5 +189,5 @@ Message me directly on Telegram or Gmail, or open an issue/discussion on any rep
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=100&section=footer&width=1000" alt="footer" />
 
 <div align="center">
-<i>Thanks for reading this far ✨</i>
+<i>Thanks for Attention ✨</i>
 </div>
