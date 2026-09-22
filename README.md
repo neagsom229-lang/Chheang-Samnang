@@ -100,6 +100,10 @@ Expense tracker SaaS with a working Stripe billing tier, budgets, recurring tran
 </td>
 </tr>
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<div>
 
 ### 🌍 TraceGeo
 Identifies a landmark from a photo using the Gemini API, geocodes it with Nominatim, and shows the result on a 3D-globe interface.
@@ -107,6 +111,10 @@ Identifies a landmark from a photo using the Gemini API, geocodes it with Nomina
 `Laravel 11` `Gemini API` `Nominatim`
 
 **[View Repo →](https://github.com/neagsom229-lang/TraceGeo)**
+
+</div>
+</td>
+</tr>
 
 </div>
 </td>
@@ -122,6 +130,17 @@ Flask-based professional toolkit with a dark/light theme system built on CSS cus
 **[View Repo →](https://github.com/neagsom229-lang/SNPro)**
 
 
+</div>
+</td>
+</tr>
+</table>
+
+</div>
+</td>
+<td width="50%" valign="top">
+<div>
+
+
 ### 🖼️ Portfolio
 Personal site being rebuilt section by section (Hero, Work Gallery, About, Awards, Contact) to match a reference design.
 
@@ -129,12 +148,11 @@ Personal site being rebuilt section by section (Hero, Work Gallery, About, Award
 
 **[View Repo →](https://github.com/neagsom229-lang/Chh_Sn_Portfolio)**
 
+
 </div>
 </td>
 </tr>
 </table>
-
-
 <br/>
 
 ## 🎨 Design Language
