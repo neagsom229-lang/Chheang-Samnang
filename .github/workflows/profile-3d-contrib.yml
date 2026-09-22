@@ -2,7 +2,7 @@ name: 3D Contribution Calendar
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # refreshes every 6 hours
+    - cron: "0 18 * * *"   # once a day (18:00 UTC)
   workflow_dispatch: {}
 
 jobs:
@@ -15,12 +15,11 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: neagsom229-lang
+          USERNAME: neagsom229-lang
       - name: Commit output
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -f profile-3d-contrib/*.gif profile-3d-contrib/*.svg
+          git add -A profile-3d-contrib
           git commit -m "Update 3D contribution calendar" || echo "no changes"
           git push
