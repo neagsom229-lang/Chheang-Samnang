@@ -20,7 +20,7 @@
 
 <br/>
 
-## 👋 About Me
+##  About Me
 
 Junior web developer, passionate about learning new things daily and always curious about how fast technology grows. I build full-stack projects, and I tend to pick each one for what it will force me to learn next.
 
@@ -72,8 +72,6 @@ Junior web developer, passionate about learning new things daily and always curi
 <br/><br/>
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/KHQR-9333EA?style=flat-square&logo=googlepay&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 </td>
 </tr>
