@@ -93,7 +93,7 @@ Expense tracker SaaS with a working Stripe billing tier, budgets, recurring tran
 
 **[View Repo →](https://github.com/neagsom229-lang/Tracker_Pro)**
 
-</div>
+
 </td>
 <td width="50%" valign="top">
 <div>
