@@ -78,13 +78,11 @@ Junior web developer, passionate about learning new things daily and always curi
 </table>
 
 <br/>
-
 ## 📌 Featured Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<div>
 
 ### 💎 Obsidian
 Expense tracker SaaS with a working Stripe billing tier, budgets, recurring transactions, and CSV export — mid-redesign into a glassmorphic bento-grid dashboard.
@@ -93,10 +91,8 @@ Expense tracker SaaS with a working Stripe billing tier, budgets, recurring tran
 
 **[View Repo →](https://github.com/neagsom229-lang/Tracker_Pro)**
 
-
 </td>
 <td width="50%" valign="top">
-<div>
 
 ### 🌍 TraceGeo
 Identifies a landmark from a photo using the Gemini API, geocodes it with Nominatim, and shows the result on a 3D-globe interface.
@@ -105,11 +101,9 @@ Identifies a landmark from a photo using the Gemini API, geocodes it with Nomina
 
 **[View Repo →](https://github.com/neagsom229-lang/TraceGeo)**
 
-</div>
 </td>
 </tr>
-
-
+</table>
 
 <br/>
 
