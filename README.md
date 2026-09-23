@@ -112,31 +112,7 @@ Identifies a landmark from a photo using the Gemini API, geocodes it with Nomina
 <td width="50%" valign="top">
 <div>
 
-### 🧰 SNPro
-Flask-based professional toolkit with a dark/light theme system built on CSS custom properties.
 
-`Flask` `Python` `CSS`
-
-**[View Repo →](https://github.com/neagsom229-lang/SNPro)**
-
-</div>
-</td>
-<td width="50%" valign="top">
-<div>
-
-### 🖼️ Portfolio
-Personal site being rebuilt section by section (Hero, Work Gallery, About, Awards, Contact) to match a reference design.
-
-`React` `Vite`
-
-**[View Repo →](https://github.com/neagsom229-lang/Chh_Sn_Portfolio)**
-
-</div>
-</td>
-</tr>
-</table>
-
-<sub>Also in the archive: a Cambodian bookstore front end, a sellable Bootstrap business-site template, a Microsoft Access inventory system, and a tkinter bubble-sort visualizer — early reps from learning the fundamentals.</sub>
 
 <br/>
 
