@@ -108,9 +108,6 @@ Identifies a landmark from a photo using the Gemini API, geocodes it with Nomina
 </div>
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-<div>
 
 
 
