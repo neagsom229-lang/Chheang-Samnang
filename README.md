@@ -109,19 +109,6 @@ Identifies a landmark from a photo using the Gemini API, geocodes it with Nomina
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=neagsom229-lang&theme=tokyonight&margin-w=15&margin-h=15&column=6" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=neagsom229-lang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neagsom229-lang&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://streak-stats.demolab.com/?user=neagsom229-lang&theme=tokyonight&hide_border=true" width="100%" />
-
-</div>
-
-<br/>
-
 ## 🧊 3D Contribution Calendar
 
 <div align="center">
